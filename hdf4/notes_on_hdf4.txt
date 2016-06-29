@@ -1,0 +1,5 @@
+These are two example HDF4 files from ladsweb FTP for the
+
+3001 NPP_DSRF1KD_L2GD data set
+
+Date: 2015 - Data Day: 017
